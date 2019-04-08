@@ -1,3 +1,3 @@
 # AndroidNotification
 Android Notification  
-https://tutorial.eyehunt.in/android/android-notification-features-example/
+https://tutorial.eyehunts.com/android/android-notification-features-example/
